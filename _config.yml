@@ -1,0 +1,10 @@
+title: Módulo de Facturación para WHMCS 
+email: admin@coderic.net
+description: Sómos una comunidad de desarrolladores, que trabajamos de forma colaborativa en los ecosistemas tecnológicos de Coderic, S.A.
+baseurl: ""
+url: "https://schema.coderic.net"
+google_analytics: UA-628256-9
+author: Coderic
+logo: https://coderic.net/assets/coderic/images/logo43.png
+lang: es
+remote_theme: CodericEcosystem/CodericTheme
