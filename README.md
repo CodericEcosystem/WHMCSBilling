@@ -1,6 +1,13 @@
-# WHMCS Sample Addon Module #
+---
+layout: pagina
+title: Coderic Template
+permalink: /
+canonical_url: https://schema.coderic.net/
+sitemap: false
+---
+# Módulo de Facturación electrónica para WHMCS #
 
-## Summary ##
+## Resumen ##
 
 An addon module allows you to add additional functionality to WHMCS. It
 can provide both client and admin facing user interfaces, as well as
