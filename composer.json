@@ -1,12 +1,13 @@
 {
-    "name": "whmcs/sample-addon-module",
-    "description": "Sample Addon Module for WHMCS Billing Automation Platform",
+    "name": "coderic-ecosystem/billing",
+    "description": "Módulo de Facturación Electrónica para WHMCS",
     "keywords": [
         "whmcs",
-        "web host automation platform",
-        "addon module"
+        "coderic",
+        "ecosystem",
+        "billing"
     ],
-    "homepage": "http://www.whmcs.com/",
+    "homepage": "https://schema.coderic.net/",
     "license": "MIT",
     "authors": [
         {
@@ -14,12 +15,17 @@
             "email": "development@whmcs.com",
             "homepage": "http://www.whmcs.com/",
             "role": "Developer"
+        },
+        {
+            "name": "Coderic Development Team",
+            "email": "admin@coderic.net",
+            "homepage": "https://schema.coderic.net/",
+            "role": "Developer"
         }
     ],
     "support": {
-        "email": "support@whmcs.com",
-        "forum": "http://forums.whmcs.com/",
-        "wiki": "http://docs.whmcs.com/"
+        "email": "admin@coderic.net",
+        "web": "https://schema.coderic.net/"
     },
     "require-dev": {
         "phpunit/phpunit": "@stable"
