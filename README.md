@@ -5,8 +5,6 @@ permalink: /
 canonical_url: https://schema.coderic.net/
 sitemap: false
 ---
-# Módulo de Facturación electrónica para WHMCS #
-
 ## Resumen ##
 
 An addon module allows you to add additional functionality to WHMCS. It
